@@ -1,0 +1,29 @@
+.Table {
+    margin: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Table-thead {
+    background-color: #767676;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: 25px;
+    border-radius: 10px;
+    font-family: Mulish;
+    font-size: 25px;
+    color: white;
+}
+
+.Table-tdata {
+    background-color: #969696;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    padding: 25px;
+    border-radius: 10px;
+    font-family: Mulish;
+    font-size: 15px;
+    color: white;
+}

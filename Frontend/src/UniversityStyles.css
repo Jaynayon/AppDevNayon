@@ -1,0 +1,43 @@
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.font-styling {
+    font-family: Mulish;
+    float: left;
+    font-size: 16.5px;
+    padding-top: 5px;
+}
+
+.input-styling {
+    font-family: Mulish;  
+    float: left;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background: transparent;
+    outline: none;
+    width: 316px;
+}
+
+.button-styling {
+    font-family: Mulish;  
+    font-size: 15px;
+    border-radius: 5px;
+    color: white;
+    border: 1px solid transparent;
+    background: #3751FF;
+    outline: none;
+    height: 34px;
+    padding: 5px;
+    cursor: pointer;
+}

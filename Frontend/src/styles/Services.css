@@ -1,0 +1,55 @@
+.Service-form {
+    min-width: 300px;
+    min-height: fit-content;
+    padding: 25px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+    color: #767676;
+    width: 500px;
+    height: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.Service-button {
+    background-color: #393939;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: Mulish;
+    font-size: 15px;
+    transition-duration: 0.4s;
+}
+
+.Service-button:hover {
+    background-color: #767676;
+    color: #393939;
+}
+
+.Service-clear-button {
+    background-color: #cb3737;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: Mulish;
+    font-size: 15px;
+    transition-duration: 0.4s;
+}
+
+.Service-clear-button:hover {
+    background-color: #932323;
+    color: #ffffff;
+}
